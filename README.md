@@ -29,5 +29,5 @@ Si utilizas esta investigación, por favor cítala usando la siguiente referenci
   booktitle={Congreso Español de Videojuegos (CEV 2025)},
   year={2025},
   organization={Universidad de Granada},
-  url={[https://secivi.org/cev/cev2025.pdf](https://secivi.org/cev/cev2025.pdf)}
+  url={https://secivi.org/cev/cev2025.pdf}
 }
